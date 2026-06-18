@@ -1,0 +1,21 @@
+product_id,product_name,brand,category,sub_category,pack_size_ml,unit_price
+P001,FizzPop Cola 1000ml,FizzPop,Carbonated,Cola,1000,44.71
+P002,BubbleCola Lemon-Lime 200ml,BubbleCola,Carbonated,Lemon-Lime,200,10.24
+P003,FizzPop Orange Soda 200ml,FizzPop,Carbonated,Orange Soda,200,9.75
+P004,BubbleCola Cola 1000ml,BubbleCola,Carbonated,Cola,1000,47.23
+P005,FizzPop Lemon-Lime 330ml,FizzPop,Carbonated,Lemon-Lime,330,13.94
+P006,AquaZen Still 250ml,AquaZen,Water,Still,250,4.69
+P007,ClearSpring Sparkling 250ml,ClearSpring,Water,Sparkling,250,4.57
+P008,AquaZen Still 250ml,AquaZen,Water,Still,250,5.58
+P009,ClearSpring Sparkling 1000ml,ClearSpring,Water,Sparkling,1000,21.01
+P010,AquaZen Still 200ml,AquaZen,Water,Still,200,4.31
+P011,FreshSip Orange 1000ml,FreshSip,Juice,Orange,1000,58.83
+P012,OrchardPure Mixed Fruit 1000ml,OrchardPure,Juice,Mixed Fruit,1000,74.26
+P013,FreshSip Apple 750ml,FreshSip,Juice,Apple,750,54.02
+P014,OrchardPure Mango 200ml,OrchardPure,Juice,Mango,200,12.39
+P015,VoltUp Classic 750ml,VoltUp,Energy Drink,Classic,750,85.09
+P016,RushMax Sugar-Free 500ml,RushMax,Energy Drink,Sugar-Free,500,56.75
+P017,VoltUp Classic 200ml,VoltUp,Energy Drink,Classic,200,23.43
+P018,DairyDelight Flavored Milk 200ml,DairyDelight,Dairy,Flavored Milk,200,14.44
+P019,CreamyMoo Yogurt Drink 200ml,CreamyMoo,Dairy,Yogurt Drink,200,14.11
+P020,DairyDelight Flavored Milk 250ml,DairyDelight,Dairy,Flavored Milk,250,17.02
