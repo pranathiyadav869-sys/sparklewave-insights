@@ -53,7 +53,7 @@ from database import execute_readonly_query, get_schema_description
 # The API key is read from the environment (set via .env locally, or via
 # Streamlit Cloud's "Secrets" in deployment - see PART 9 deployment guide).
 
-GEMINI_MODEL_NAME = os.environ.get("GEMINI_MODEL_NAME", "gemini-1.5-flash")
+GEMINI_MODEL_NAME = os.environ.get("GEMINI_MODEL_NAME", "gemini-2.5-flash")
 
 
 def _get_llm(temperature: float = 0.0):
