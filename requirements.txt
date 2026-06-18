@@ -1,0 +1,32 @@
+# ============================================================================
+# requirements.txt
+# FMCG Beverages Business Insights Assistant
+# ============================================================================
+# Install with: pip install -r requirements.txt
+#
+# Versions are minimum-pinned (>=) rather than exact-pinned, which is
+# appropriate for an assessment/demo project. For a production deployment,
+# you would typically generate a fully pinned lockfile (e.g. via
+# `pip freeze > requirements.lock.txt`) to guarantee reproducibility.
+# ============================================================================
+
+# --- Frontend ---
+streamlit>=1.37.0
+
+# --- Data handling ---
+pandas>=2.2.0
+numpy>=1.26.0
+
+# --- Visualization ---
+plotly>=5.22.0
+
+# --- LLM orchestration ---
+langchain>=0.2.11
+langchain-google-genai>=1.0.8
+google-generativeai>=0.7.2
+
+# --- Table rendering for LLM prompts (df.to_markdown) ---
+tabulate>=0.9.0
+
+# --- Environment variable loading (local development) ---
+python-dotenv>=1.0.1
